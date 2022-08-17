@@ -1,13 +1,16 @@
 # Web-Resouces-MERN--Udemy-
 
-### Website for boosting typing speed
+### Website link for boosting typing speed
 https://www.keybr.com/
 
-### Website for Live coding output
+### Website link for Live coding output
 https://codepen.io/
 
-### Website for croping images
+### Website link for croping images
 https://crop-circle.imageonline.co/
 
-### Website for editing images
+### Website link for editing images
 https://www.befunky.com/create/resize-image/
+
+### Website link for best color combination for designing websites
+https://colorhunt.co/
