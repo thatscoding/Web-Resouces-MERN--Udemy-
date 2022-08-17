@@ -14,3 +14,6 @@ https://www.befunky.com/create/resize-image/
 
 ### Website link for best color combination for designing websites
 https://colorhunt.co/
+
+### Website link for documentations for everything like html , css , JS etc..
+https://devdocs.io/
